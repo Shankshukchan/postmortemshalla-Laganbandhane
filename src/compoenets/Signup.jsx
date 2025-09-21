@@ -59,6 +59,7 @@ const Signup = () => {
           className="w-full bg-[#6E1E1E] hover:bg-pink-700 text-white font-bold py-2 px-4 mb-6 rounded hover:cursor-pointer"
           type="submit"
           name="submit"
+          value="Register"
           defaultValue="Register"
         />
       </div>
